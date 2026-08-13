@@ -6,3 +6,9 @@ print(len(str1))             # tells the length of the string
 print(str1.endswith("ing"))  # tells whether it ends with 'ing' or not
 print(str1.count("i")        # count total 'i' present in the string
 
+// string slicing 
+str = "Amazing"
+print(str[0:3])              # prints from starting index 0 and ending index 3
+print(str[:4])               # prints from starting index 0 and ending index 4
+print(str[3:])               # prints from starting index 3 and till last index
+print(str[-3:-1])            # prints from starting index -4 and ending index -1
