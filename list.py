@@ -13,3 +13,5 @@ list = [2,4,5,6,7]
 # print(list)
 list.append(10)                # adds 10 to the list
 print(list)
+list.reverse()                 # reverse the list in reverse 
+print(list)                      
