@@ -14,4 +14,6 @@ list = [2,4,5,6,7]
 list.append(10)                # adds 10 to the list
 print(list)
 list.reverse()                 # reverse the list in reverse 
-print(list)                      
+print(list)  
+list.remove(2)                # removes 2 from the list
+print(list)                 
