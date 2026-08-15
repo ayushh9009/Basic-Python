@@ -15,4 +15,4 @@ print(str[3:])                   # prints from starting index 3 and till last in
 print(str[-3:-1])                # prints from starting index -4 and ending index -1
 print(str.replace("i","o"))      # replace the word "i" with "o" and prints the string
 print(str.upper())               # capitalizes first word of the string   
-
+print(str.lower())               # Output: "amazing"
