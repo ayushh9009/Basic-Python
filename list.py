@@ -16,4 +16,6 @@ print(list)
 list.reverse()                 # reverse the list in reverse 
 print(list)  
 list.remove(2)                # removes 2 from the list
-print(list)                 
+print(list)   
+list.insert(3,8)              # inserts 8 at index 3
+print(list)
