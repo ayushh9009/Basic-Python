@@ -16,3 +16,4 @@ print(str[-3:-1])                # prints from starting index -4 and ending inde
 print(str.replace("i","o"))      # replace the word "i" with "o" and prints the string
 print(str.upper())               # capitalizes first word of the string   
 print(str.lower())               # Output: "amazing"
+print(str.startswith("Am"))      # Outpu: False
