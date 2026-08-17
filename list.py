@@ -19,3 +19,5 @@ list.remove(2)                # removes 2 from the list
 print(list)   
 list.insert(3,8)              # inserts 8 at index 3
 print(list)
+list.pop(2)                   # removes element at index 2
+print(list)
