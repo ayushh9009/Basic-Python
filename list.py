@@ -21,3 +21,5 @@ list.insert(3,8)              # inserts 8 at index 3
 print(list)
 list.pop(2)                   # removes element at index 2
 print(list)
+list.sort()                   # sort the list
+print(list)
