@@ -6,7 +6,7 @@ print(marks[3])
 marks[2]="45"                 # adding it to the list as list are mutable 
 print(marks)
 print(marks[1:3])             # list is mutable
-print(marks[1:])
+print(marks[1:])              # prints list from first index 
 
 
 list = [2,4,5,6,7]
