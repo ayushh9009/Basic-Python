@@ -25,5 +25,5 @@ list.sort()                   # sort the list
 print(list)
 list.extend([3,8])            # adds the elements at the end of list
 print(list)
-list.clear()
+list.clear()                  # clears the list 
 print(list)
