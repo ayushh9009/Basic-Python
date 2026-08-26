@@ -17,4 +17,4 @@ print(str.replace("i","o"))      # replace the word "i" with "o" and prints the 
 print(str.upper())               # capitalizes first word of the string   
 print(str.lower())               # Output: "amazing"
 print(str.startswith("Am"))      # Output is False
-print(str.find("z")               # Returns index of element "z"                 
+print(str.find("z")              # returns index of element "z"                 
