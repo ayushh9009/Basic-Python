@@ -13,7 +13,7 @@ print(str[0:3])                  # prints from starting index 0 and ending index
 print(str[:4])                   # prints from starting index 0 and ending index 4
 print(str[3:])                   # prints from starting index 3 and till last index
 print(str[-3:-1])                # prints from starting index -4 and ending index -1
-print(str[::-1])                 
+print(str[::-1])                 # prints the reversal of string
 print(str.replace("i","o"))      # replace the word "i" with "o" and prints the string
 print(str.upper())               # capitalizes first word of the string   
 print(str.lower())               # Output: "amazing"
