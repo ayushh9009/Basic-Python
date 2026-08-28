@@ -8,4 +8,4 @@ student = {
 "math" : 66
 }
 }
-print(list(student.keys()))
+print(list(student.keys()))             # prints keys of dictionary
