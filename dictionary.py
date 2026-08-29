@@ -8,5 +8,6 @@ student = {
 "math" : 66
 }
 }
-print(list(student.keys()))             # prints keys of dictionary
-print(list(student.values()))           # prints values  
+print(list(student.keys()))                         # prints keys of dictionary
+print(list(student.values()))                       # prints values  
+print(student.update({"city" : "delhi"})
