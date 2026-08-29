@@ -9,4 +9,4 @@ student = {
 }
 }
 print(list(student.keys()))             # prints keys of dictionary
-print(list(student.values()))            
+print(list(student.values()))           # prints values  
