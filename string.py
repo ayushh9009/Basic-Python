@@ -20,3 +20,4 @@ print(str.lower())                        # Output: "amazing"
 print(str.startswith("Am"))               # Output is False
 print(str.find("z")                       # returns index of element "z"                 
 print(str.replace("World", "Python")      # replace 'World' with 'Python'
+print(str.split())
