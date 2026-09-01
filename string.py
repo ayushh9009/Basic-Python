@@ -1,4 +1,4 @@
-str = "this is first string"
+str1 = "this is first string"
 str2 = " this is second string"
 str3 = str1 +  str2          # concates both the string
 print(str3)                
