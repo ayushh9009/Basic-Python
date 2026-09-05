@@ -3,7 +3,8 @@ print(marks)                  # prints the list
 print(type(marks))            # tells type of data type       
 print(len(marks))             # tells length of the list 
 print(marks[3])
-print(marks[2])="45"          # adding it to the list as list are mutable 
+marks[2] = 45
+print(marks[2])               # adding it to the list as list are mutable 
 print(marks[1:3])             # list is mutable
 print(marks[1:])              # prints list from first index 
 
