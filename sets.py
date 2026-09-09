@@ -6,6 +6,6 @@ collection.add(8)
 print(collection)
 collection.remove(2)
 print(collection)
-collection.pop()                             
+collection.pop()                                # removes a random value                   
 print(collection)
 
