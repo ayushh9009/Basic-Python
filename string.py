@@ -23,3 +23,4 @@ print(str.replace("World", "Python"))     # replace 'World' with 'Python'
 print(str.split())                        # splits the string
 print(str.lstrip())                       # Removes left spaces
 print(str.rstrip())                       # Removes right spaces
+print(str.split(" "))                     # Splits string using spaces
