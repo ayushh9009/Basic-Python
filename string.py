@@ -21,6 +21,7 @@ print(str.startswith("Am"))               # Output is False
 print(str.find("z"))                      # returns index of element "z"                 
 print(str.replace("World", "Python"))     # replace 'World' with 'Python'
 print(str.split())                        # splits the string
-print(str.lstrip())                       # Removes left spaces
-print(str.rstrip())                       # Removes right spaces
-print(str.split(" "))                     # Splits string using spaces
+print(str.lstrip())                       # removes left spaces
+print(str.rstrip())                       # removes right spaces
+print(str.split(" "))                     # splits string using spaces
+print(str.isalpha())                      # prints true if all characters are alphabets
