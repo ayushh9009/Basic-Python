@@ -13,3 +13,5 @@ print(list(student.values()))                       # prints values
 print(student.update({"city" : "delhi"}))           # added city in student
 print(student.items())                              # prints key-value pair    
 print(student.get("name"))                          # prints the name 
+student["subjects"]["math"] = 75
+print(student)
